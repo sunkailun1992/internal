@@ -70,7 +70,7 @@ test {
  * 引入的jar
  */
 dependencies {
-    implementation 'com.gbw:utils:4.2.0'
+    implementation 'com:utils:1.0.0'
     implementation 'com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-discovery:2.2.6.RELEASE'
     implementation 'com.alibaba.cloud:spring-cloud-starter-alibaba-nacos-config:2.2.6.RELEASE'
     implementation 'org.apache.commons:commons-lang3:3.11'

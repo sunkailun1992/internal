@@ -1,0 +1,5 @@
+server:
+  port: 7600
+spring:
+  main:
+    allow-bean-definition-overriding: true

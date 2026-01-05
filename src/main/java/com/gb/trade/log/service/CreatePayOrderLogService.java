@@ -1,0 +1,18 @@
+package com.gb.trade.log.service;
+
+import com.gb.trade.log.entity.CreatePayOrderLog;
+
+/**
+ * 创建支付单
+ * @author lixinyao
+ * @DateTime 2021/11/05  上午11:09
+ */
+public interface CreatePayOrderLogService {
+    /**
+     * 创建支付单
+     *
+     * @param createPayOrderLog
+     */
+    void insert(CreatePayOrderLog createPayOrderLog);
+
+}
